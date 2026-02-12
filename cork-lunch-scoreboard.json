@@ -1,6 +1,23 @@
 {
   "office": "Cork",
   "title": "Cork Office — Lunchtime Scoreboard",
-  "lastUpdated": "2026-02-12T12:35:00Z",
-  "games": []
+  "lastUpdated": "2026-02-12T13:10:00Z",
+  "games": [
+    {
+      "home": "Blue Team",
+      "away": "Red Team",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "LIVE",
+      "detail": "5-a-side • Pitch A"
+    },
+    {
+      "home": "Sales",
+      "away": "Support",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "FT",
+      "detail": "Table Tennis"
+    }
+  ]
 }
